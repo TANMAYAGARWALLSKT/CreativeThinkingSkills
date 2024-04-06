@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: main;
-  src: url(../font/BROWN\ VOLKY.ttf);
+  src: url(./font/BROWN_VOLKY.ttf);
 }
 @keyframes rotate {
   0% {
