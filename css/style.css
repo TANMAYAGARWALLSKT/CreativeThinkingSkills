@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: main;
-  src: url(./font/BROWN\ VOLKY.ttf);
+  src: url(../font/BROWN\ VOLKY.ttf);
 }
 @keyframes rotate {
   0% {
@@ -229,11 +229,7 @@ body {
 .topcepage {
   color: #927b2e;
 
-  background: linear-gradient(
-    90deg,
-    hsla(204, 67%, 8%, 1) 1%,
-    hsla(220, 78%, 29%, 1) 100%
-  );
+  background:#07193e;
 }
 .border {
   border: #927b2e 5px solid;
@@ -371,9 +367,7 @@ body {
 .imagetable {
   rotate: "90deg";
 }
-.boxshadow {
-  box-shadow: 0px 0px 10px black;
-}
+
 .animation:hover {
   transform: scale(1.1);
 }
