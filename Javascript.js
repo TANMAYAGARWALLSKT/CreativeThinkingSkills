@@ -1,6 +1,3 @@
-
-
-
 function bhaikaLoader() {
   gsap.to(".loader", {
     top: "-100vh",
